@@ -16,4 +16,4 @@ A sample is also provided in the repository.
 
 1.  Report - Summarizes analysis and walks through supervised and unsupervised models used, findings, and areas for further research.
 
-2.  :  Notebook containing EDA, Feature Engineering, and detailed Supervised and Unsupervised Analysis
+2.  Milestone_2_June_2023_Final_Greg_Holden.ipynb : Notebook containing EDA, Feature Engineering, and detailed Supervised and Unsupervised Analysis
