@@ -10,11 +10,13 @@ Tradtional marketing metrics included Recency and Frequency of purchases, plus t
 
 This analysis was part of a Milestone Project for the University of Michigan's Master of Applied Data Science program.
 
-## Data Source
+## Data Source and Description
 
 The data was sourced from this website:  https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronics-store
 
 A sample is also provided in the repository.
+
+The data consists of over 885,000 distinct web-events and 23,000 completed transactions from between October 2019 and February 2020.  It also includes over 53,000 unique product and 700 category codes, which were subsequently consolidated into 103 product groupings and 14 categories during the feature engineering process.
 
 ## Key Files
 
