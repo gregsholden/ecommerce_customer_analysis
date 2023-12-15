@@ -1,0 +1,10 @@
+Python==3.7.16
+Pandas==1.3.5
+Numpy==1.21.6
+Seaborn==0.12.2
+Plotly==5.14.1
+Matplotlib==3.5.3
+Sklearn==1.0.2
+XGB==1.6.2
+Statsmodel==0.13.5
+SHAP==0.41.0
